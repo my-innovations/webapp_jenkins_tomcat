@@ -1,0 +1,5 @@
+<web-app>
+	<welcome-file>
+		index.html
+	</welcome-file>
+</web-app>
